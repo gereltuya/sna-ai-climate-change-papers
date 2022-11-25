@@ -42,11 +42,11 @@ Since I would like to study AI methods and their application in Climate change m
 pip install -r requirements.txt
 ```
 
-After preparing the environment, please start the jupyter notebook ```sna-ai-climate-change-papers.ipynb``` and follow the code steps.
+After preparing the environment, please start the jupyter notebook [**sna-ai-climate-change-papers.ipynb**](https://github.com/gereltuya/sna-ai-climate-change-papers/blob/main/sna-ai-climate-change-papers.ipynb) and follow the code steps.
 
 ### Data
 
-To run the data collection step in the notebook, you need to add your own SerpApi token, but you can skip the step and work on the downloaded data in the ```data/``` folder.
+To run the data collection step in the notebook, you need to add your own SerpApi token, but you can skip the step and work on the downloaded data in the [data/](https://github.com/gereltuya/sna-ai-climate-change-papers/tree/main/data) folder.
 
 ### Code
 
