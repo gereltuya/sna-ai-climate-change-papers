@@ -42,7 +42,7 @@ Since I would like to study AI methods and their application in Climate change m
 pip install -r requirements.txt
 ```
 
-After preparing the environment, please start the jupyter notebook [**sna-ai-climate-change-papers.ipynb**](https://github.com/gereltuya/sna-ai-climate-change-papers/blob/main/sna-ai-climate-change-papers.ipynb) and follow the code steps.
+After preparing the environment, please start the jupyter notebook [sna-ai-climate-change-papers.ipynb](https://github.com/gereltuya/sna-ai-climate-change-papers/blob/main/sna-ai-climate-change-papers.ipynb) and follow the code steps.
 
 ### Data
 
